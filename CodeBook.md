@@ -5,11 +5,7 @@ Assignment: Getting and Cleaning Data Course Project
 https://www.coursera.org/learn/data-cleaning/peer/FIZtT/getting-and-cleaning-data-course-project
 
 Week 4 
-Assignment: Getting and Cleaning Data Course Project
-
-Jing LEI
-
-jing.lei.best@gmail.com
+Assignment: Getting and Cleaning Data Course Project (Jing LEI)
 
 ##
 Original: Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto.
