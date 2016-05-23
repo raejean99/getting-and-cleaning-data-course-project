@@ -25,9 +25,10 @@ For each original record it is provided:
 
 ## This is the Code Book for the tidy_mean.txt file.
 
-# subject: the user ID of the volunteer users. ID is from 1 to 30.
+### subject
+The user ID of the volunteer users. ID is from 1 to 30.
 
-# activity
+### activity
 The type of activity performed when the corresponding measurements were taken. 
 
 1. WALKING
@@ -37,7 +38,7 @@ The type of activity performed when the corresponding measurements were taken.
 5. STANDING
 6. LAYING 
 
-# feature
+### feature
 The 79 feature related to "mean" and "std", selected out of 561 features. Some modification to the feature name has been done. Such as: "-" is removed from the result set. For instances,
 
  [1] tBodyAccmeanX   that is: tBodyAcc-mean()-X           
@@ -123,9 +124,10 @@ The 79 feature related to "mean" and "std", selected out of 561 features. Some m
 [78] fBodyBodyGyroJerkMagstd     
 [79] fBodyBodyGyroJerkMagmeanFreq
 
-value: the average of each variable for each activity and each subject. 
+### value
+The average of each variable for each activity and each subject. 
 
-# NOTE
+## NOTE
 - Features are normalized and bounded within [-1,1].
 - The set of signals are:
 mean(): Mean value
