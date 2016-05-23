@@ -127,3 +127,11 @@ feature: 79 feature related to "mean" and "std", selected out of 561 features. S
 [79] fBodyBodyGyroJerkMagmeanFreq
 
 value: the average of each variable for each activity and each subject. 
+
+## NOTE
+- Features are normalized and bounded within [-1,1].
+- The set of signals are:
+mean(): Mean value
+std(): Standard deviation
+
+
