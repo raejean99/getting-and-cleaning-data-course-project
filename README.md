@@ -11,11 +11,11 @@ Assignment: Getting and Cleaning Data Course Project
 The dataset includes the following files:
 =========================================
 
-- 'README.txt'
+- 'README.md'
 
 - 'run_analysis.R': The required scripts to complete the assignment. 
 
-- 'tidy.txt': The tidy data set after merging the training and test sets.
+- 'CodeBook.md':  Describes the variables, the data.
 
 - 'tidy_mean.txt': Independent tidy data set with the average of each variable for each activity and each subject.
 
