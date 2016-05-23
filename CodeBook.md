@@ -8,12 +8,11 @@ Week 4
 Assignment: Getting and Cleaning Data Course Project
 
 Jing LEI
+
 jing.lei.best@gmail.com
 
 ##
-Original
-##
-Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto.
+Original: Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto.
 Smartlab - Non Linear Complex Systems Laboratory
 DITEN - Università degli Studi di Genova.
 Via Opera Pia 11A, I-16145, Genoa, Italy.
