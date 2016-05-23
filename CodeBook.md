@@ -46,13 +46,15 @@ activity: the type of activity performed when the corresponding measurements wer
 6 LAYING 
 
 feature: 
+
  [1] tBodyAccmeanX   that is: tBodyAcc-mean()-X           
  [2] tBodyAccmeanY   that is: tBodyAcc-mean()-Y            
  [3] tBodyAccmeanZ   that is: tBodyAcc-mean()-Z            
  [4] tBodyAccstdX    that is: tBodyAcc-std()-X            
  [5] tBodyAccstdY    that is: tBodyAcc-std()-Y            
- [6] tBodyAccstdZ    that is: tBodyAcc-std()-Z     
- Similarly, you can see that "-" is removed from the result set.
+ [6] tBodyAccstdZ    that is: tBodyAcc-std()-Z   
+ 
+ Similarly, you can see how "-" is removed from the result set.
  
  [7] tGravityAccmeanX            
  [8] tGravityAccmeanY            
