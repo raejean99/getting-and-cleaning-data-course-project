@@ -24,7 +24,8 @@ Background:
 
 2. Load library "reshape2".'
 
-Steps:
+Actions:
+
 1. Load 6 activity labels into R.
 
 2. Load 561 features into R.
