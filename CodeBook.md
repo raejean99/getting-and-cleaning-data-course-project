@@ -27,8 +27,7 @@ For each record it is provided:
 - Its activity label. 
 - An identifier of the subject who carried out the experiment.
 
-########
-This is the Code Book for the tidy_mean.txt file.
+## This is the Code Book for the tidy_mean.txt file.
 
 subject: the user ID of the volunteer users. ID is from 1 to 30.
 
