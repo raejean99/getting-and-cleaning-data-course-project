@@ -39,7 +39,7 @@ The type of activity performed when the corresponding measurements were taken.
 6. LAYING 
 
 ### feature
-The 79 feature related to "mean" and "std", selected out of 561 features. Some modification to the feature name has been done. Such as: "-" is removed from the result set. For instances,
+The 79 feature related to "mean" and "std" are selected out of 561 features. Some modification to the feature name has been done. Such as: "-" is removed from the result set. For instances,
 
  [1] tBodyAccmeanX   that is: tBodyAcc-mean()-X           
  [2] tBodyAccmeanY   that is: tBodyAcc-mean()-Y            
