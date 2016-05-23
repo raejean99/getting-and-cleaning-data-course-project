@@ -51,7 +51,9 @@ feature:
  [3] tBodyAccmeanZ   that is: tBodyAcc-mean()-Z            
  [4] tBodyAccstdX    that is: tBodyAcc-std()-X            
  [5] tBodyAccstdY    that is: tBodyAcc-std()-Y            
- [6] tBodyAccstdZ    that is: tBodyAcc-std()-Z            
+ [6] tBodyAccstdZ    that is: tBodyAcc-std()-Z     
+ Similarly, you can see that "-" is removed from the result set.
+ 
  [7] tGravityAccmeanX            
  [8] tGravityAccmeanY            
  [9] tGravityAccmeanZ            
