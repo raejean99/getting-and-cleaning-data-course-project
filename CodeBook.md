@@ -48,7 +48,7 @@ The 79 feature related to "mean" and "std", selected out of 561 features. Some m
  [5] tBodyAccstdY    that is: tBodyAcc-std()-Y            
  [6] tBodyAccstdZ    that is: tBodyAcc-std()-Z   
  
- The rules apply to all the 79 feature names.
+ These rules apply to all the 79 feature names.
  
  [7] tGravityAccmeanX            
  [8] tGravityAccmeanY            
