@@ -130,7 +130,7 @@ The average of each variable for each activity and each subject.
 ## NOTE
 - Features are normalized and bounded within [-1,1].
 - The set of signals are:
-mean(): Mean value
-std(): Standard deviation
+ - mean(): Mean value
+ - std(): Standard deviation
 
 
