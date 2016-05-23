@@ -8,10 +8,6 @@ https://www.coursera.org/learn/data-cleaning/peer/FIZtT/getting-and-cleaning-dat
 Week 4 
 Assignment: Getting and Cleaning Data Course Project
 ==================================================================
-Jing LEI
-
-jing.lei.best@gmail.com
-==================================================================
 The dataset includes the following files:
 =========================================
 
