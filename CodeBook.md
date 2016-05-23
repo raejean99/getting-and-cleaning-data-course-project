@@ -41,10 +41,15 @@ subject: the user ID of the volunteer users. ID is from 1 to 30.
 
 activity: the type of activity performed when the corresponding measurements were taken. 
 1 WALKING
+
 2 WALKING_UPSTAIRS
+
 3 WALKING_DOWNSTAIRS
+
 4 SITTING
+
 5 STANDING
+
 6 LAYING 
 
 feature: 
