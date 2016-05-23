@@ -32,6 +32,7 @@ For each record it is provided:
 subject: the user ID of the volunteer users. ID is from 1 to 30.
 
 activity: the type of activity performed when the corresponding measurements were taken. 
+
 1 WALKING
 
 2 WALKING_UPSTAIRS
