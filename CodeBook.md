@@ -25,23 +25,20 @@ For each original record it is provided:
 
 ## This is the Code Book for the tidy_mean.txt file.
 
-subject: the user ID of the volunteer users. ID is from 1 to 30.
+# subject: the user ID of the volunteer users. ID is from 1 to 30.
 
-activity: the type of activity performed when the corresponding measurements were taken. 
+# activity
+The type of activity performed when the corresponding measurements were taken. 
 
-1 WALKING
+1. WALKING
+2. WALKING_UPSTAIRS
+3. WALKING_DOWNSTAIRS
+4. SITTING
+5. STANDING
+6. LAYING 
 
-2 WALKING_UPSTAIRS
-
-3 WALKING_DOWNSTAIRS
-
-4 SITTING
-
-5 STANDING
-
-6 LAYING 
-
-feature: 79 feature related to "mean" and "std", selected out of 561 features. Some modification to the feature name has been done. Such as: "-" is removed from the result set. For instances,
+# feature
+The 79 feature related to "mean" and "std", selected out of 561 features. Some modification to the feature name has been done. Such as: "-" is removed from the result set. For instances,
 
  [1] tBodyAccmeanX   that is: tBodyAcc-mean()-X           
  [2] tBodyAccmeanY   that is: tBodyAcc-mean()-Y            
@@ -128,7 +125,7 @@ feature: 79 feature related to "mean" and "std", selected out of 561 features. S
 
 value: the average of each variable for each activity and each subject. 
 
-## NOTE
+# NOTE
 - Features are normalized and bounded within [-1,1].
 - The set of signals are:
 mean(): Mean value
