@@ -19,6 +19,7 @@ The dataset includes the following files:
 # Descirption of run_analysis.R scripts
 
 Background: 
+
 1. Use correct work directory. 
 
 2. Load library "reshape2".'
