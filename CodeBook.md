@@ -12,8 +12,6 @@ jing.lei.best@gmail.com
 
 ==================================================================
 Original
-
-http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 ==================================================================
 Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto.
 Smartlab - Non Linear Complex Systems Laboratory
@@ -47,7 +45,7 @@ activity: the type of activity performed when the corresponding measurements wer
 3 WALKING_DOWNSTAIRS
 4 SITTING
 5 STANDING
-6 LAYING
+6 LAYING 
 
 feature: 
  [1] tBodyAccmeanX   that is: tBodyAcc-mean()-X           
